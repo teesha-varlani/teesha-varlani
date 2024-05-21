@@ -2,7 +2,7 @@
 - 👀 I’m interested in any kind of coding and data entries. 
 - 🌱 I’m currently learning Python and DBMS. 
 - 💞️ I’m looking to collaborate on C, C++ and python programs. 
-- 📫 How to reach me - Instagram : www.instagram.com/radiance_of_dark
+- 📫 How to reach me - Instagram : www.instagram.com/crypttic_
 
 <!---
 teesha-varlani/teesha-varlani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
